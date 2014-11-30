@@ -617,5 +617,9 @@
 
 + (instancetype)shareSignIcon;
 
++ (instancetype)youtubeSquareIcon;
 
++ (instancetype)youtubeIcon;
+
++ (instancetype)youtubePlayIcon;
 @end
